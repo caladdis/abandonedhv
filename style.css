@@ -1,1 +1,38 @@
 /* your styles will go here!! */
+a{ 
+    color: #FFF;
+    text-align: center;
+    font-family: "Post No Bills Colombo ExtraBold" Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+body{
+    color: #FFF;
+    font-family: "Post No Bills Colombo ExtraBold";
+    background-color: #1E1E1E;
+    background-position: center;
+    margin:0px;
+}
+h1{
+    margin-top: 0;
+}
+header{
+    background-image: url('celing tiles 1.jpg');
+    background-size: cover;
+    background-position:top;
+    min-height: 400px;
+    min-width: 1440;
+}
+main{
+    text-align: center;
+    font-size: 29px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+footer{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 800;
+    text-transform: uppercase;
+}

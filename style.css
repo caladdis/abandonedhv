@@ -2,19 +2,24 @@
 a{ 
     color: #FFF;
     text-align: center;
-    font-family: "Post No Bills Colombo ExtraBold" Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Stick No Bills",Verdana, Geneva, Tahoma, sans-serif;
     font-size: 17px;
     font-weight: 800;
     text-transform: uppercase;
 }
 body{
     color: #FFF;
-    font-family: "Post No Bills Colombo ExtraBold";
+    font-family: "Stick No Bills", sans-serif;
     background-color: #1E1E1E;
     background-position: center;
     margin:0px;
 }
 h1{
+    text-align: center;
+    font-family: "Stick No Bills", sans-serif;
+    font-size: 90px;
+    font-weight: 800;
+    text-transform: uppercase;
     margin-top: 0;
 }
 header{
@@ -29,6 +34,33 @@ main{
     font-size: 29px;
     font-weight: 800;
     text-transform: uppercase;
+}
+#locations{
+    background-image: url('locations 1 (2).jpg');
+    min-height:173px;
+    max-height:173px;
+    max-width:493px;
+    min-width:493px;
+    background-size: cover;
+    padding-top: 140px;
+}
+#community{
+    background-image: url('edited community 2 (2).jpg');
+    min-height:173px;
+    max-height:173px;
+    max-width:493px;
+    min-width:493px;
+    background-size: cover;
+    padding-top: 140px;
+}
+#news{
+    background-image: url('news page 1 (2).jpg');
+    min-height:173px;
+    max-height:173px;
+    max-width:493px;
+    min-width:493px;
+    background-size: cover;
+    padding-top: 140px;
 }
 footer{
     text-align: center;
